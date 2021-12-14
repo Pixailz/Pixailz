@@ -1,4 +1,2 @@
-![Pixailz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pixailz&theme=dark&show_icons=true)
-
-#### Currently working on [YouDownload](https://github.com/Pixailz/YouDownload)
-#### (also waiting for the 10 january 2022)
+  <img src="https://github-readme-stats.vercel.app/api?username=Pixailz&theme=dark&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pixailz&theme=dark&layout=compact&langs_count=10">
