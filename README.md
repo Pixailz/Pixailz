@@ -1,4 +1,9 @@
 <details>
+  <summary>TryHackMe Badge</summary>
+  <br>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Pixailz.png" alt="TryHackMe">
+</details>
+<details>
   <summary>GitHub stats</summary>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Pixailz&theme=chartreuse-dark&show_icons=true">
