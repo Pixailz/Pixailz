@@ -1,7 +1,7 @@
 <details>
   <summary>TryHackMe Badge</summary>
   <br>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Pixailz.png?9999" alt="TryHackMe">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Pixailz.png" alt="TryHackMe">
 </details>
 <details>
   <summary>GitHub stats</summary>
