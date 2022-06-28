@@ -17,8 +17,8 @@
 ## TODO
 
 1. make libft clean again
-  - add subfolder to sort all function
-  - add atoi_base atol_base atoll_base
-  - rewrite all the things :)
+    - add subfolder to sort all function
+    - add atoi_base atol_base atoll_base
+    - rewrite all the things :)
 2. finish philosophers
 3. validate push_swap
