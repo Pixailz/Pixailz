@@ -20,5 +20,5 @@
     - add subfolder to sort all function
     - add atoi_base atol_base atoll_base
     - rewrite all the things :)
-2. finish philosophers
+2. finish philosophers bonus
 3. validate push_swap
