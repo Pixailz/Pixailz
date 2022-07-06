@@ -1,3 +1,5 @@
+## Info
+
 <details>
   <summary>TryHackMe Badge</summary>
   <br>
@@ -18,7 +20,9 @@
 
 1. make libft clean again
     - add subfolder to sort all function
-    - add atoi_base atol_base atoll_base
     - rewrite all the things :)
-2. finish philosophers bonus
-3. validate push_swap
+2. rewrite philosophers bonus
+    - add waitpid(pid, &result, WNOHANG) somewhere
+3. write bonus of ft_printf
+4. optimise push_swap to pass it at 125
+5. BlankProject
