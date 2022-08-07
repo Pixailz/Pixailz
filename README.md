@@ -18,9 +18,8 @@
 
 ## TODO
 
-1. make libft clean again
-    - add subfolder to sort all function
-    - rewrite all the things :)
+1. LIBFT:
+    - add the possibility to add multiple subcategories to the archive 
 2. rewrite philosophers bonus
     - add waitpid(pid, &result, WNOHANG) somewhere
 3. write bonus of ft_printf
