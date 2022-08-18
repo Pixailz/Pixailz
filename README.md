@@ -25,3 +25,5 @@
 3. write bonus of ft_printf
 4. optimise push_swap to pass it at 125
 5. BlankProject
+    - update scripts form ft_libft
+    - review Makefile
