@@ -28,8 +28,5 @@
 
 1. LIBFT:
     - add the possibility to add multiple subcategories to the archive 
-    - fix header of ALL part
-        - add new header for the type define
-        - fix libft.h to include only needed part
 1. write bonus of ft_printf
 1. optimise push_swap to pass it at 125
