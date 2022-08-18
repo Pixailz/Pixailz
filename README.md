@@ -26,7 +26,5 @@
 
 ## TODO LATER
 
-1. LIBFT:
-    - add the possibility to add multiple subcategories to the archive 
 1. write bonus of ft_printf
 1. optimise push_swap to pass it at 125
