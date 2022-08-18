@@ -18,12 +18,15 @@
 
 ## TODO
 
-1. LIBFT:
-    - add the possibility to add multiple subcategories to the archive 
-2. rewrite philosophers bonus
-    - add waitpid(pid, &result, WNOHANG) somewhere
-3. write bonus of ft_printf
-4. optimise push_swap to pass it at 125
-5. BlankProject
+1. rewrite philosophers bonus
+    - push it !
+1. BlankProject
     - update scripts form ft_libft
     - review Makefile
+
+## TODO LATER
+
+1. LIBFT:
+    - add the possibility to add multiple subcategories to the archive 
+1. write bonus of ft_printf
+1. optimise push_swap to pass it at 125
