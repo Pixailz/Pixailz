@@ -19,7 +19,7 @@
   <summary>42 stats</summary>
   <br>
   <a href="https://profile.intra.42.fr/users/brda-sil">
-    <img src="https://badgen.net/badge/42Angoul%C3%AAme/brda-sil/50C878?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg">
+    <img src="https://badgen.net/badge/Angoul%C3%AAme/brda-sil/50C878?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg">
   </a>
 </details>
 <details>
