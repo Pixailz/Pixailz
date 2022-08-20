@@ -24,7 +24,8 @@
 </details>
 <details>
  <summary>TODO</summary>
- 
+
+1. check memory leak at school for pipez
 1. rewrite philosophers bonus
     - push it !
 1. BlankProject
