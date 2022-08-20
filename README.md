@@ -24,8 +24,7 @@
 </details>
 <details>
  <summary>TODO</summary>
-
-1. make mandatory branch for [pipez](https://github.com/Pixailz/Pipez)
+ 
 1. rewrite philosophers bonus
     - push it !
 1. BlankProject
