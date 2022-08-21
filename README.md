@@ -25,11 +25,9 @@
 <details>
  <summary>TODO</summary>
 
+1. start minishell, alone or with a mate
 1. rewrite philosophers bonus
     - push it !
-1. BlankProject
-    - update scripts form ft_libft
-    - review Makefile
 1. write bonus of ft_printf
 1. optimise push_swap to pass it at 125
   
