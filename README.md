@@ -31,7 +31,6 @@
     - to help for
         - explicit src in Makefile
         - prototype, aligned in headers 
-        -
 1. Push [philosophers](https://github.com/Pixailz/philosophers)
     - pass the exams first, and then ..
 1. write bonus of [ft_printf](https://github.com/Pixailz/ft_printf)
