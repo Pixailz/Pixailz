@@ -26,15 +26,17 @@
  <summary>TODO</summary>
 
 1. start minishell, alone or with a mate
-1. start ft_helper
+1. start [ft_helper](https://github.com/Pixailz/ft_helper)
     - python3 script
     - to help for
         - explicit src in Makefile
         - prototype, aligned in headers 
         -
-1. Push philosophers
+1. Push [philosophers](https://github.com/Pixailz/philosophers)
     - pass the exams first, and then ..
-1. write bonus of ft_printf
-1. optimise push_swap to pass it at 125
-  
+1. write bonus of [ft_printf](https://github.com/Pixailz/ft_printf)
+1. optimise [push_swap](https://github.com/Pixailz/push_swap) to pass it at 125
+1. [Born2BeRootTester](https://github.com/Pixailz/Born2BeRootTester)
+    - add test for CentOS
+
 </details>
