@@ -26,6 +26,12 @@
  <summary>TODO</summary>
 
 1. start minishell, alone or with a mate
+1. start ft_helper
+    - python3 script
+    - to help for
+         - explicit src in Makefile
+         - prototype, aligned in headers 
+    
 1. rewrite philosophers bonus
     - push it !
 1. write bonus of ft_printf
