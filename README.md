@@ -34,5 +34,6 @@
 1. optimise [push_swap](https://github.com/Pixailz/push_swap) to pass it at 125
 1. [Born2BeRootTester](https://github.com/Pixailz/Born2BeRootTester)
     - add test for CentOS
+1. [rc_files](https://github.com/Pixailz/rc_files) update installer
 
 </details>
