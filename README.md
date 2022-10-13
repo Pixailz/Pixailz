@@ -29,11 +29,10 @@
 1. [ft_helper](https://github.com/Pixailz/ft_helper)
     - have work to do
 1. Push [philosophers](https://github.com/Pixailz/philosophers)
-    - push only the mandatory part
+    - push with bonus (almost done)
 1. write bonus of [ft_printf](https://github.com/Pixailz/ft_printf)
 1. optimise [push_swap](https://github.com/Pixailz/push_swap) to pass it at 125
 1. [Born2BeRootTester](https://github.com/Pixailz/Born2BeRootTester)
     - add test for CentOS
-1. [rc_files](https://github.com/Pixailz/rc_files) update installer
 
 </details>
