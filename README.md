@@ -28,10 +28,10 @@
 1. finish [minishell](https://github.com/Pixailz/minishell)
 1. [ft_helper](https://github.com/Pixailz/ft_helper)
     - have work to do
-1. Push [philosophers](https://github.com/Pixailz/philosophers)
+1. Push [ft_philosophers](https://github.com/Pixailz/ft_philosophers)
     - push with bonus (almost done)
 1. write bonus of [ft_printf](https://github.com/Pixailz/ft_printf)
-1. optimise [push_swap](https://github.com/Pixailz/push_swap) to pass it at 125
+1. optimise [ft_push_swap](https://github.com/Pixailz/ft_push_swap) to pass it at 125
 1. [Born2BeRootTester](https://github.com/Pixailz/Born2BeRootTester)
     - add test for CentOS
 
