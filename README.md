@@ -24,15 +24,21 @@
 </details>
 <details>
  <summary>TODO</summary>
-
-1. finish [minishell](https://github.com/Pixailz/minishell)
-1. [ft_helper](https://github.com/Pixailz/ft_helper)
-    - have work to do
-1. Push [ft_philosophers](https://github.com/Pixailz/ft_philosophers)
-    - push with bonus (almost done)
-1. write bonus of [ft_printf](https://github.com/Pixailz/ft_printf)
-1. optimise [ft_push_swap](https://github.com/Pixailz/ft_push_swap) to pass it at 125
-1. [Born2BeRootTester](https://github.com/Pixailz/Born2BeRootTester)
-    - add test for CentOS
-
 </details>
+
+## TODO
+
+- [ft_ip_address](https://github.com/Pixailz/ft_ip_address)
+  - add function to [ft_libft](https://github.com/Pixailz/ft_libft)
+- [ft_helper](https://github.com/Pixailz/ft_helper)
+  - have work to do
+  - push with bonus (almost done)
+- write bonus of [ft_printf](https://github.com/Pixailz/ft_printf)
+- optimise [ft_push_swap](https://github.com/Pixailz/ft_push_swap) to pass it at 125
+- repush [ft_philosophers](https://github.com/Pixailz/ft_philosophers)
+- repush [ft_minishell](https://github.com/Pixailz/ft_minishell)
+  - finish checker
+  - correct wrong behavior
+  - add correct pipe mecanism for exam
+- [Born2BeRootTester](https://github.com/Pixailz/Born2BeRootTester)
+  - add test for CentOS
