@@ -29,7 +29,7 @@
 ## TODO
 
 - [ft_ip_address](https://github.com/Pixailz/ft_ip_address)
-  - add function to [ft_libft](https://github.com/Pixailz/ft_libft)
+  - merge function to [ft_libft](https://github.com/Pixailz/ft_libft)
 - [ft_helper](https://github.com/Pixailz/ft_helper)
   - have work to do
   - push with bonus (almost done)
