@@ -1,34 +1,54 @@
-## Info
+## Pix
 
 <details>
-  <summary>TryHackMe Badge</summary>
-  <br>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Pixailz.png?1" alt="TryHackMe">
+  <summary>Profile Links</summary>
+  <blockquote>
+  <details>
+    <summary>42</summary>
+    <blockquote>
+      <a href="https://profile.intra.42.fr/users/brda-sil">
+        <img src="https://badgen.net/badge/Angoul%C3%AAme/brda-sil/50C878?icon=https://meta.intra.42.fr/images/42_logo.svg"/>
+      </a>
+    </blockquote>
+  </details>
+  <details>
+    <summary>CTF</summary>
+    <blockquote>
+
+- [Try Hack Me](https://tryhackme.com/p/Pixailz)
+
+	![Profile](https://tryhackme-badges.s3.amazonaws.com/Pixailz.png)
+- [Root Me](https://www.root-me.org/Pixailz)
+- [PicoCTF](https://play.picoctf.org/users/Pixailz)
+- [Hack The Box](https://app.hackthebox.com/profile/193910)
+  </details>
 </details>
+
+
 <details>
   <summary>GitHub stats</summary>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Pixailz&theme=chartreuse-dark&show_icons=true">
-</details>
-<details>
-  <summary>Most used language</summary>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pixailz&theme=chartreuse-dark&layout=compact&langs_count=10">
-</details>
-<details>
-  <summary>42 stats</summary>
-  <br>
-  <a href="https://profile.intra.42.fr/users/brda-sil">
-    <img src="https://badgen.net/badge/Angoul%C3%AAme/brda-sil/50C878?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg">
-  </a>
+  <blockquote>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Pixailz&theme=chartreuse-dark&show_icons=true">
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pixailz&theme=chartreuse-dark&layout=compact&langs_count=10" adjust="center">
+  </p>
+  </blockquote>
 </details>
 
-## TODO
+<details>
+  <summary>TODO</summary>
 
-- [ft_helper](https://github.com/Pixailz/ft_helper)
-  - have work to do
-  - push with bonus (almost done)
-- repush [ft_minishell](https://github.com/Pixailz/ft_minishell)
-  - finish checker
-  - correct wrong behavior
-  - add correct pipe mecanism for exam
+1. finish SupaMakefile
+2. finish [ft_cpp](https://github.com/Pixailz/ft_cpp)
+3. repush [ft_minishell](https://github.com/Pixailz/ft_minishell)
+	- add correct pipe mecanism for exam
+	- correct wrong behavior
+4. finish VPN stuff
+5. update lib_bash
+6. train more CTF
+7. [ft_helper](https://github.com/Pixailz/ft_helper)
+	- have work to do
+	- push with bonus (almost done)
+</details>
