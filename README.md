@@ -51,4 +51,15 @@
 7. [ft_helper](https://github.com/Pixailz/ft_helper)
 	- have work to do
 	- push with bonus (almost done)
+8. Server installation
+	- configure strong openssh-server
+	- install default package
+	- strengthens the system
+	- ? create a user
+9. Make docker sample project
+	- a default docker project to rush out a little project.
+	- multiple branch for all type:
+		- the basic one
+		- with standealone scripts
+		- with swarm mode (learn how to use [swarm](https://docs.docker.com/engine/swarm/))
 </details>
