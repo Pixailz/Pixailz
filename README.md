@@ -1,5 +1,3 @@
-## Pix
-
 <a href="http://www.github.com/Pixailz">
 	<img src="https://github-readme-stats.vercel.app/api?username=Pixailz&icon_color=008000&title_color=008000&bg_color=22272e&hide_border=true&show_icons=true" />
 </a>
