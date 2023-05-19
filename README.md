@@ -1,5 +1,16 @@
 ## Pix
 
+<a href="http://www.github.com/Pixailz">
+	<img src="https://github-readme-stats.vercel.app/api?username=Pixailz&icon_color=008000&title_color=008000&bg_color=22272e&hide_border=true&show_icons=true" />
+</a>
+<a href="http://www.github.com/Pixailz">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pixailz&hide_border=true&background=22272e&ring=adbac7&fire=008000&currStreakLabel=adbac7&currStreakNum=008000&sideNums=adbac7&sideLabels=adbac7&dates=64748b" />
+</a>
+
+<a href="http://www.github.com/Pixailz">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pixailz&layout=compact&icon_color=008000&title_color=008000&bg_color=22272e&hide_border=true&hide=roff&card_width=500" />
+</a>
+
 <details>
   <summary>Profile Links</summary>
   <blockquote>
@@ -23,19 +34,6 @@
 - [Hack The Box](https://app.hackthebox.com/profile/193910)
 - [WeChall](https://www.wechall.net/profile/Pixailz)
   </details>
-</details>
-
-
-<details>
-  <summary>GitHub stats</summary>
-  <blockquote>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Pixailz&theme=chartreuse-dark&show_icons=true">
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pixailz&theme=chartreuse-dark&layout=compact&langs_count=10" adjust="center">
-  </p>
-  </blockquote>
 </details>
 
 <details>
