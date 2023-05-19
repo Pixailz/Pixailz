@@ -10,15 +10,6 @@
 </a>
 
 <details>
-  <summary>WakaStats</summary>
-  <br>
-  <a href="http://www.github.com/Pixailz">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pixailz&title_color=008000&bg_color=22272e&hide_border=true" />
-  </a>
-</details>
-
-
-<details>
   <summary>Profile Links</summary>
   <blockquote>
   <details>
