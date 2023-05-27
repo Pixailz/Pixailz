@@ -1,3 +1,8 @@
+<div align="center">
+	<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode"  alt="Vscode" width="55" height="55"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="55" height="55"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP", alt="CPP" width="55" height="55">
+</div>
 <a href="http://www.github.com/Pixailz">
 	<img src="https://github-readme-stats.vercel.app/api?username=Pixailz&icon_color=008000&title_color=008000&bg_color=22272e&hide_border=true&show_icons=true" />
 </a>
