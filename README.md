@@ -1,4 +1,6 @@
 # Hi, i'm a  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=008000&vCenter=true&width=435&height=50&lines=Bash+Lover+❤️;Programmer;Pentester;SysAdmin;Kernel+Builder">
+> And i'm currently searching for a new opportunity in the CyberSecurity / SysAdmin industry
+
 
 ## Tools that i use
 
