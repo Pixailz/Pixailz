@@ -142,7 +142,6 @@
 - [Hack The Box](https://app.hackthebox.com/profile/193910)
 - [WeChall](https://www.wechall.net/profile/Pixailz)
 
-      </blockquote>
     </details>
   </blockquote>
 </details>
