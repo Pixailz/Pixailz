@@ -150,23 +150,7 @@
   <summary>TODO</summary>
 
 1. finish [ft_cpp](https://github.com/Pixailz/ft_cpp)
-1. repush [ft_minishell](https://github.com/Pixailz/ft_minishell)
-	- add correct pipe mecanism for exam
-	- correct wrong behavior
-1. finish VPN stuff
-1. [ft_helper](https://github.com/Pixailz/ft_helper)
-	- have work to do
-	- push with bonus (almost done)
-1. Server installation
-	- configure strong openssh-server
-	- install default package
-	- strengthens the system
-	- ? create a user
-1. Make docker sample project
-	- a default docker project to rush out a little project.
-	- multiple branch for all type:
-		- the basic one
-		- with standealone scripts
-		- with swarm mode (learn how to use [swarm](https://docs.docker.com/engine/swarm/))
-1. docker_guac
+1. fix [helper](https://github.com/Pixailz/helper) and update on all repo ([ft_libft](https://github.com/Pixailz/ft_libft), [ft_ping](https://github.com/Pixailz/ft_ping), [SupaBlank](https://github.com/Pixailz/SupaBlank))
+1. do more pwn ...
+
 </details>
