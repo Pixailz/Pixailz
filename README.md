@@ -1,3 +1,22 @@
+## TODO
+
+1. finish common core at 42:
+    1. [ft_cpp](https://github.com/Pixailz/ft_cpp)
+    1. [ft_transcendence](https://github.com/Pixailz/ft_transcendence)
+    1. two last exam 
+1. TODO: in other repo
+    1. [lib_bash](https://github.com/Pixailz/lib_bash)
+    1. [dot_files](https://github.com/Pixailz/dot_files)
+    1. [helper](https://github.com/Pixailz/helper)
+1. do more pwn ...
+
+After common core:
+
+1. [ft_ping](https://github.com/Pixailz/ft_ping)
+1. ft_ls
+1. ft_linux
+1. the whole cybersec branches
+ 
 # Hi, i'm a  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=008000&vCenter=true&width=435&height=50&lines=Bash+Lover+❤️;Programmer;Pentester;SysAdmin;Kernel+Builder">
 > And i'm currently searching for a new opportunity in the CyberSecurity / SysAdmin industry
 
@@ -144,13 +163,4 @@
 
     </details>
   </blockquote>
-</details>
-
-<details>
-  <summary>TODO</summary>
-
-1. finish [ft_cpp](https://github.com/Pixailz/ft_cpp)
-1. fix [helper](https://github.com/Pixailz/helper) and update on all repo ([ft_libft](https://github.com/Pixailz/ft_libft), [ft_ping](https://github.com/Pixailz/ft_ping), [SupaBlank](https://github.com/Pixailz/SupaBlank))
-1. do more pwn ...
-
-</details>
+</details> 
