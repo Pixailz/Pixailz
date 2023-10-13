@@ -1,7 +1,6 @@
 ## TODO
 
 1. finish common core at 42:
-    1. [ft_cpp](https://github.com/Pixailz/ft_cpp)
     1. [ft_transcendence](https://github.com/Pixailz/ft_transcendence)
     1. two last exam 
 1. TODO: in other repo
