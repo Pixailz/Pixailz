@@ -2,7 +2,7 @@
 
 1. finish common core at 42:
     1. [ft_transcendence](https://github.com/Pixailz/ft_transcendence)
-    1. two last exam 
+    1. last exam
 1. TODO: in other repo
     1. [lib_bash](https://github.com/Pixailz/lib_bash)
     1. [dot_files](https://github.com/Pixailz/dot_files)
