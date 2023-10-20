@@ -1,12 +1,13 @@
 ## TODO
 
 1. finish common core at 42:
-    1. [ft_transcendence](https://github.com/Pixailz/ft_transcendence)
+    1. push [ft_transcendence](https://github.com/Pixailz/ft_transcendence)
     1. last exam
 1. TODO: in other repo
     1. [lib_bash](https://github.com/Pixailz/lib_bash)
     1. [dot_files](https://github.com/Pixailz/dot_files)
     1. [helper](https://github.com/Pixailz/helper)
+1. update `icon part` of the [readme](https://github.com/Pixailz/Pixailz/blob/main/README.md)
 1. do more pwn ...
 
 After common core:
