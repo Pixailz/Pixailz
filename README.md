@@ -1,13 +1,14 @@
+# Hi, i'm a  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=008000&vCenter=true&width=435&height=50&lines=Bash+Lover+❤️;Programmer;Pentester;SysAdmin;Kernel+Builder">
+> And i'm currently searching for a new opportunity in the CyberSecurity / SysAdmin industry
+
 ## TODO
 
 1. finish common core at 42:
-    1. push [ft_transcendence](https://github.com/Pixailz/ft_transcendence)
     1. last exam
 1. TODO: in other repo
     1. [lib_bash](https://github.com/Pixailz/lib_bash)
     1. [dot_files](https://github.com/Pixailz/dot_files)
     1. [helper](https://github.com/Pixailz/helper)
-1. update `icon part` of the [readme](https://github.com/Pixailz/Pixailz/blob/main/README.md)
 1. do more pwn ...
 
 After common core:
@@ -17,15 +18,18 @@ After common core:
 1. ft_linux
 1. the whole cybersec branches
  
-# Hi, i'm a  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=008000&vCenter=true&width=435&height=50&lines=Bash+Lover+❤️;Programmer;Pentester;SysAdmin;Kernel+Builder">
-> And i'm currently searching for a new opportunity in the CyberSecurity / SysAdmin industry
-
 
 ## Tools that i use
 
 <div align="center">
   <a href="https://www.gnu.org/software/bash/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash ❤️" alt="Bash ❤️" width="55" height="55">
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="55" height="55">
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="55" height="55"/>
   </a>
   <a href="https://github.com/tmux/tmux">
     <img src="https://github.com/tmux/tmux/blob/master/logo/tmux-logomark.svg" title="Tmux" alt="Tmux" width="55" height="55">
@@ -36,43 +40,34 @@ After common core:
   <a href="https://www.vim.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="55" height="55">
   </a>
-  <a href="https://git-scm.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="55" height="55">
-  </a>
   <a href="https://github.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="55" height="55">
   </a>
   <a href="https://fr.wikipedia.org/wiki/Secure_Shell">
     <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="SSH" alt="SSH" width="55" height="55">
   </a>
-  <a href="https://www.docker.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="55" height="55"/>
-  </a>
-  <a href="https://kubernetes.io/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="55" height="55">
-  </a>
   <a href="https://github.com/logisim-evolution/logisim-evolution">
     <img src="https://github.com/logisim-evolution/logisim-evolution/blob/master/artwork/logisim-evolution-icon.svg" title="Logisim-Evolution" alt="Logisim-Evolution" width="55" height="55">
   </a>
 </div>
 
-## Language that i already have knowledge
+## Language that i practiced
 
 <div align="center">
-  <a href="https://fr.wikipedia.org/wiki/MS-DOS">
-    <img src="https://github.com/Microsoft/MS-DOS/blob/master/msdos-logo.png" title="MS-DOS" alt="MS-DOS" width="55" height="55">
-  </a>
   <a href="https://www.gnu.org/software/bash/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash ❤️" alt="Bash ❤️" width="55" height="55">
-  </a>
-  <a href="https://cplusplus.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="CPP", alt="CPP" width="55" height="55">
   </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="55" height="55">
   </a>
   <a href="https://www.python.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55">
+  </a>
+  <a href="https://cplusplus.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="CPP", alt="CPP" width="55" height="55">
+  </a>
+  <a href="https://fr.wikipedia.org/wiki/MS-DOS">
+    <img src="https://github.com/Microsoft/MS-DOS/blob/master/msdos-logo.png" title="MS-DOS" alt="MS-DOS" width="55" height="55">
   </a>
   <a href="https://daringfireball.net/projects/markdown/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="55" height="55">
