@@ -9,6 +9,7 @@
     1. [lib_bash](https://github.com/Pixailz/lib_bash)
     1. [dot_files](https://github.com/Pixailz/dot_files)
     1. [helper](https://github.com/Pixailz/helper)
+    1. [Cult-Of-the-Norm](https://github.com/Pixailz/Cult-Of-the-Norm)
 1. do more pwn ...
 
 After common core:
