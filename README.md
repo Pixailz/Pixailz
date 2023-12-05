@@ -3,21 +3,30 @@
 
 ## TODO
 
-1. finish common core at 42:
-    1. last exam
-1. TODO: in other repo
-    1. [lib_bash](https://github.com/Pixailz/lib_bash)
-    1. [dot_files](https://github.com/Pixailz/dot_files)
-    1. [helper](https://github.com/Pixailz/helper)
 1. do more pwn ...
 
-After common core:
+> [!TIP]
+> 42
 
-1. [ft_ping](https://github.com/Pixailz/ft_ping)
-1. ft_ls
-1. ft_linux
-1. the whole cybersec branches
- 
+1. Network Branch
+    1. [ft_ping](https://github.com/Pixailz/ft_ping)
+1. Unix Branch
+    1. ft_ls
+    1. ft_nm
+1. Kernel Branch
+    1. ft_linux
+1. the whole cybersec branch
+    1. [SnowCrash](https://github.com/Pixailz/SnowCrash)
+    1. dr-quine
+    1. woody-woodpacker
+1. libasm
+1. 42sh (insane choice here ..)
+    
+### In other repo
+
+1. [lib_bash](https://github.com/Pixailz/lib_bash)
+1. [dot_files](https://github.com/Pixailz/dot_files)
+1. [helper](https://github.com/Pixailz/helper)
 
 ## Tools that i use
 
@@ -27,6 +36,9 @@ After common core:
   </a>
   <a href="https://git-scm.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="55" height="55">
+  </a>
+  <a href="https://www.wireshark.org/">
+    <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" title="Wireshark" alt="Wireshark" width="55" height="55"/>
   </a>
   <a href="https://www.docker.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="55" height="55"/>
@@ -42,9 +54,6 @@ After common core:
   </a>
   <a href="https://github.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="55" height="55">
-  </a>
-  <a href="https://fr.wikipedia.org/wiki/Secure_Shell">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="SSH" alt="SSH" width="55" height="55">
   </a>
   <a href="https://github.com/logisim-evolution/logisim-evolution">
     <img src="https://github.com/logisim-evolution/logisim-evolution/blob/master/artwork/logisim-evolution-icon.svg" title="Logisim-Evolution" alt="Logisim-Evolution" width="55" height="55">
@@ -65,6 +74,12 @@ After common core:
   </a>
   <a href="https://cplusplus.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="CPP", alt="CPP" width="55" height="55">
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript", alt="TypeScript" width="55" height="55">
+  </a>
+  <a href="https://www.lua.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" title="Lua", alt="Lua" width="55" height="55">
   </a>
   <a href="https://fr.wikipedia.org/wiki/MS-DOS">
     <img src="https://github.com/Microsoft/MS-DOS/blob/master/msdos-logo.png" title="MS-DOS" alt="MS-DOS" width="55" height="55">
@@ -87,7 +102,6 @@ After common core:
 </div>
 
 ## Operating System that i work on
-> windows suck a lot ...
 
 <div align="center">
   <a href="https://www.gnu.org/software/bash/">
@@ -118,6 +132,9 @@ After common core:
     <img src="https://avatars.githubusercontent.com/u/4673648?s=200&v=4" title="ArchLinux" alt="ArchLinux" width="55" height="55" >
   </a>
 </div>
+
+> [!NOTE]
+> My installation of a vanilla arch can be found [here](https://github.com/Pixailz/arch-setup)
 
 <details>
   <summary>Stats</summary>
