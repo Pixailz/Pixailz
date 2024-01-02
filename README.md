@@ -5,8 +5,12 @@
 
 1. do more pwn ...
 
-> [!TIP]
-> 42
+### 42
+
+1. push ft_ping
+1. begin libasm
+
+---
 
 1. Network Branch
     1. [ft_ping](https://github.com/Pixailz/ft_ping)
@@ -21,7 +25,8 @@
     1. woody-woodpacker
 1. libasm
 1. 42sh (insane choice here ..)
-    
+
+
 ### In other repo
 
 1. [lib_bash](https://github.com/Pixailz/lib_bash)
