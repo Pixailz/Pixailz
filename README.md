@@ -3,12 +3,13 @@
 
 ## TODO
 
+1. gitea server
 1. do more pwn ...
 
 ### 42
 
 1. push ft_ping
-1. begin libasm
+1. finish libasm
 
 ---
 
