@@ -3,30 +3,35 @@
 
 ## TODO
 
-1. gitea server
+1. make a menu for [dot_files](https://github.com/Pixailz/dot_files)
+    1. could be easily done in bash, why not in C ? (every other language could use it with C version)
 1. do more pwn ...
+1. change version of ft_ping
 
 ### 42
-
-1. push ft_ping
-1. finish libasm
 
 ---
 
 1. Network Branch
-    1. [ft_ping](https://github.com/Pixailz/ft_ping)
+    1. [x] [ft_ping](https://github.com/Pixailz/ft_ping)
+    1. [ ] ft_traceroute
+    1. [ ] ft_nmap 
 1. Unix Branch
-    1. ft_ls
-    1. ft_nm
+    1. [ ] ft_malloc
+    1. [ ] ft_ls
+    1. [ ] ft_nm 
 1. Kernel Branch
-    1. ft_linux
+    1. [ ] ft_linux
 1. the whole cybersec branch
-    1. [SnowCrash](https://github.com/Pixailz/SnowCrash)
-    1. dr-quine
-    1. woody-woodpacker
-1. libasm
-1. 42sh (insane choice here ..)
-
+    1. [x] [SnowCrash](https://github.com/Pixailz/SnowCrash)
+    1. [ ] [boot2root](https://github.com/Pixailz/boot2root)
+    1. [ ] dr-quine
+    1. [ ] woody-woodpacker
+    1. [ ] tinky-winkey
+1. [ ] [libasm](https://github.com/Pixailz/libasm)
+    1. [x] finished library
+    1. [ ] finish tester
+1. [ ] 42sh (insane choice here ..)
 
 ### In other repo
 
@@ -51,7 +56,7 @@
   </a>
   <a href="https://github.com/tmux/tmux">
     <img src="https://github.com/tmux/tmux/blob/master/logo/tmux-logomark.svg" title="Tmux" alt="Tmux" width="55" height="55">
-  </a>
+  </a> 
   <a href="https://code.visualstudio.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode"  alt="Vscode" width="55" height="55"/>
   </a>
