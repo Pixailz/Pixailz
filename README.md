@@ -21,7 +21,10 @@
     1. [ ] ft_ls
     1. [ ] ft_nm 
 1. Kernel Branch
-    1. [ ] ft_linux
+    1. [x] ft_linux
+        1. [x] LFS
+        1. [ ] BLFS
+    1. [ ] Little Pinguin
 1. the whole cybersec branch
     1. [x] [SnowCrash](https://github.com/Pixailz/SnowCrash)
     1. [ ] [boot2root](https://github.com/Pixailz/boot2root)
@@ -30,7 +33,8 @@
     1. [ ] tinky-winkey
 1. [ ] [libasm](https://github.com/Pixailz/libasm)
     1. [x] finished library
-    1. [ ] finish tester
+    1. [x] finish tester
+    1. [ ] need to push 
 1. [ ] 42sh (insane choice here ..)
 
 ### In other repo
