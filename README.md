@@ -19,7 +19,7 @@
 1. Unix Branch
     1. [ ] ft_malloc
     1. [ ] ft_ls
-    1. [x] [ft_nm](https://github.com/Pixailz/ft_traceroute)
+    1. [x] [ft_nm](https://github.com/Pixailz/ft_nm)
 1. Kernel Branch
     1. [x] ft_linux
         1. [x] LFS
