@@ -182,7 +182,7 @@
       <summary>CTF</summary>
       <blockquote>
 
-- [Try Hack Me](https://tryhackme.com/p/Pixailz) ![Profile](https://tryhackme-badges.s3.amazonaws.com/Pixailz.png)
+- [Try Hack Me](https://tryhackme.com/p/Pixailz) ![Profile](https://tryhackme-badges.s3.amazonaws.com/Pixailz.png?update=2)
 - [Root Me](https://www.root-me.org/Pixailz)
 - [PicoCTF](https://play.picoctf.org/users/Pixailz)
 - [Hack The Box](https://app.hackthebox.com/profile/193910)
